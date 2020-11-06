@@ -1,0 +1,46 @@
+{
+  "acomodacao": [
+    {
+      "id": 001,
+      "nome": "Quarto individual",
+      "descricao": "1 hospede, 24m², telefone, tv, closet, ar-condicionado",
+      "preco": 100.00,
+      "categoria_id": 1
+    },
+    {
+      "id": 002,
+      "nome": "Quarto Duplo",
+      "descricao": "2 hospede, 26m², telefone, tv, closet, ar-condicionado",
+      "preco": 200.00,
+      "categoria_id": 2
+    },
+    {
+      "id": 003,
+      "nome": "Quarto Duplo",
+      "descricao": "2 hospede, 30m², telefone, tv, closet, ar-condicionado",
+      "preco": 250.00,
+      "categoria_id": 2
+    },
+    {
+      "id": 004,
+      "nome": "Quarto Triplo",
+      "descricao": "3 hospede, 30m², telefone, tv, closet, ar-condicionado",
+      "preco": 300.00,
+      "categoria_id": 3
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Quarto individual"
+    },
+    {
+      "id": 2,
+      "nome": "Quarto Duplo"
+    }
+    {
+      "id": 3,
+      "nome": "Quarto Triplo"
+    }
+  ]
+}
